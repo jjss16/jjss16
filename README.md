@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/RigelAlgebar/RigelAlgebar/blob/master/media/images/worm-hole.jpg">
+  <font size="3">Artist: Hannes Hummel</font>
+</p>
+
 <h3 align="center">Hola Mundo y Bienvenido. My name is juan Yonatan Siancas Soto. I am a Data Scientist </h3> 
 
 ---
@@ -27,7 +32,7 @@
 <img src="https://img.shields.io/badge/python%20-00BFFF.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/sql%20-005EFF.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spark%20-%231572B6.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Spark&color=E25A1C&logo=Apache+Spark&logoColor=FFFFFF&label="/>
   
 </p>
 
