@@ -8,6 +8,7 @@
 - 😵 I’m looking for help with Machine Learning. 🦜
 - 💬 Ask me about anything you think I might be able to help with! 💡
 - 🚀 2022 goal: learn to use Tensorflow 2.0 📃
+- 🧡 Curiosity: I love all animals 🐶🐺🐯...
 
 <br>
 <br>
